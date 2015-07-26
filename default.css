@@ -56,7 +56,7 @@ hr
 
 	#logo
 	{
-		background-image: url("images/logo.png");
+		background-image: url("http://s8.postimg.org/58msfcodx/logo.png");
 		background-color: white;
 		width: 500px;
 		height: 40px;
@@ -136,7 +136,7 @@ hr
 	#wrapper
 
 	{
-		background-image: url("images/fog1.jpg");
+		background-image: url("http://s3.postimg.org/8djfozs2b/fog1.jpg");
 		background-position: center;
 		float: bottom;
 		width: 100%;
