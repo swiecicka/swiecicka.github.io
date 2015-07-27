@@ -83,7 +83,7 @@ hr
 	#menu ul
 	{
 		display: inline-block;
-		background-color: white;
+		background-color: #B3B3B3;
 	}
 	
 	#menu li
@@ -230,7 +230,7 @@ hr
 	{
 		font-size: 26px;
 		text-align: left;	
-		font-family: 'Futura';
+		font-family: 'Helvetica';
 		font-weight: lighter;
 		margin-left: 17px;
 		margin-right: 10px;
