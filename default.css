@@ -50,8 +50,8 @@ hr
 #header
 {
 	position: relative;
-	height: 80px;
-	background-color: #CCCCCC;
+	height: 50px;
+	background-color: white;
 }
 
 
@@ -62,8 +62,8 @@ hr
 }
 	#logo
 	{
-		background-image: url("http://s11.postimg.org/bssqdvzk3/Untitled_5.png");
-		background-color: #CCCCCC;
+		background-image: url("http://s8.postimg.org/58msfcodx/logo.png");
+		background-color: white;
 		width: 500px;
 		height: 40px;
 		display: block;
@@ -169,7 +169,7 @@ hr
 		text-align: center;
 		text-transform: uppercase;
 		font-size: 0.6em;
-		color: #F3FF00;
+		color: darkorange;
 		font-family: "futura";
 		word-spacing: 0.4em;
 	}
@@ -177,7 +177,7 @@ hr
 	#copyright a
 	{
 		text-decoration: none;
-		color: #F3FF00;
+		color: darkorange;
 		font-family: "futura";
 		letter-spacing: 0.50em;
 		word-spacing: 0.4em;
@@ -235,7 +235,7 @@ hr
 		margin-left: 17px;
 		margin-right: 10px;
 		word-spacing: 0em;
-		color:#F3FF00;
+		color:coral;
 		margin-bottom: 0px;
 
 	}
