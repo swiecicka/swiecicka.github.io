@@ -345,9 +345,10 @@ hr
     vertical-align: top;
     white-space: nowrap;
     width: auto;
+    margin-left: 40px;
 }
 
-#clear {
+#mc_embed_signup .clear {
 	text-align: center;
 }
 
@@ -364,10 +365,10 @@ hr
     margin-top: 30px;
 }
 
-#mc_embed_signup .button:hover 
-{
-	background-color:#darkorange;
+#mc_embed_signup .button:hover {
+	background-color: darkorange;
 }
+
 
 
 
