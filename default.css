@@ -169,7 +169,7 @@ hr
 		text-align: center;
 		text-transform: uppercase;
 		font-size: 0.6em;
-		color: darkorange;
+		color: #F3FF00;
 		font-family: "futura";
 		word-spacing: 0.4em;
 	}
@@ -177,7 +177,7 @@ hr
 	#copyright a
 	{
 		text-decoration: none;
-		color: darkorange;
+		color: #F3FF00;
 		font-family: "futura";
 		letter-spacing: 0.50em;
 		word-spacing: 0.4em;
