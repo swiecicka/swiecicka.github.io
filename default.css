@@ -325,6 +325,27 @@ hr
     border-radius: 50%;
 }
 
+#mc_embed_signup .button {
+    clear: both;
+    background-color: #919396;
+    border: 0 none;
+    border-radius: 0px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: lighter;
+    height: 32px;
+    line-height: 32px;
+    margin: 0px 5px 5px;
+    padding: 0 22px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: auto;
+    margin-left: 65px;
+}
 
 
 
