@@ -348,12 +348,13 @@ hr
     margin-left: 40px;
 }
 
+
 #mc_embed_signup .clear {
 	text-align: center;
 }
 
 #mc_embed_signup h2 {
-    font-weight: lighter;
+    font-weight: lighter !important;
     padding: 0;
     margin: 0;
     font-size: 1em;
@@ -368,8 +369,6 @@ hr
 #mc_embed_signup .button:hover {
 	background-color: darkorange;
 }
-
-
 
 
 
