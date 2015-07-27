@@ -376,6 +376,11 @@ hr
     opacity: .3;
 }
 
+#mc_embed_signup #mce-success-response 
+{
+	color:darkorange; 
+	display:none;
+}
 
 
 
