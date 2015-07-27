@@ -311,6 +311,7 @@ hr
 	div#mc_embed_signup {
 		width: 200px;
 		float: right;
+		margin-top:150px;
 	}
 
 	#mc_embed_signup::before {
