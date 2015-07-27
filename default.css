@@ -51,7 +51,7 @@ hr
 {
 	position: relative;
 	height: 50px;
-	background-color: #CCCCCC;
+	background-color: white;
 }
 
 
@@ -62,8 +62,8 @@ hr
 }
 	#logo
 	{
-		background-image: url("swiecicka.github.io/logo.png");
-		background-color: #CCCCCC;
+		background-image: url("http://s8.postimg.org/58msfcodx/logo.png");
+		background-color: white;
 		width: 500px;
 		height: 40px;
 		display: block;
@@ -83,7 +83,7 @@ hr
 	#menu ul
 	{
 		display: inline-block;
-		background-color: #B3B3B3;
+		background-color: white;
 	}
 	
 	#menu li
@@ -230,7 +230,7 @@ hr
 	{
 		font-size: 26px;
 		text-align: left;	
-		font-family: 'Helvetica';
+		font-family: 'Futura';
 		font-weight: lighter;
 		margin-left: 17px;
 		margin-right: 10px;
