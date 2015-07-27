@@ -368,6 +368,13 @@ hr
 	background-color: darkorange;
 }
 
+#mc_embed_signup .mc-field-group input {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    text-indent: 2%;
+    opacity: .3;
+}
 
 
 
